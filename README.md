@@ -2,7 +2,9 @@
 Pure CSS Overlay Modals
 
 ## Getting Started
+The Modals are created in CSS only, no JS used. The process is very easy to add additional modals as well.
 
+### Example 
 ```
 <div id="modal1" class="overlay">
   <a class="cancel" href="#"></a>
